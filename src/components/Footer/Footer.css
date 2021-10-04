@@ -1,0 +1,49 @@
+.footer{
+    background-color: #27293D;
+}
+.footer ul {
+    margin: 0;
+    padding: 0;
+}
+.footer ul li {
+    list-style: none;
+}
+.footer ul li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14px;
+    letter-spacing: .8px;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+.footer a:hover {
+    color: #FFCA2C;
+}
+.footer, .footer a, .copyright, .footer p {
+    color: rgba(255,255,255,.5);
+}
+.subscription input {
+    background-color: #3D3F51;
+    border: none;
+}
+.boxed-btn {
+    color: seashell;
+    padding: 8px 10px;
+    border: none;
+}
+.boxed-btn:hover {
+    color: snow;
+}
+.copyright {
+    border-top: 1px solid rgba(255,255,255,.5);
+}
+.copyright span {
+    color: #FFCA2C;
+    font-style: italic;
+    font-weight: 600;
+}
+input[type="email"], textarea {
+    outline: none;
+    box-shadow:none !important;
+    color: rgb(236, 236, 236);
+}

@@ -1,0 +1,22 @@
+.faq-style {
+    position: relative;
+}
+.faq-style::after {
+    position: absolute;
+    bottom: -5px;
+    left: 0;
+    width: 50px;
+    height: 3px;
+    background: #F8B637;
+    content: "";
+}
+.faq-content {
+    padding-right: 150px;
+}
+.faq p {
+    color: lightslategray;
+}
+.faq-title.faq-style:after {
+    left: 50%;
+    margin-left: -25px;
+}

@@ -1,0 +1,21 @@
+.header {
+    background-color: #27293D;
+    padding: 18px 0;
+    color: rgb(246, 240, 240);
+}
+.logo {
+    font-size: 32px;
+    font-family: 'Shrikhand', cursive;
+    background: #616161;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #9bc5c3, #616161);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #9bc5c3, #616161); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+text-align: center;
+}
+
+.nav-link {
+    color: snow;
+    display: inline-block;
+}
+.nav-link:hover {
+    color: rgb(240, 207, 61);
+}

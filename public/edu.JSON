@@ -1,0 +1,112 @@
+[
+    {
+        "_id": "615a95861366e24f1eaaf81e",
+        "isActive": false,
+        "title": "Learn PHP Programming From Scratch",
+        "price": "$192",
+        "picture": "https://edu.varistor.in/wp-content/uploads/Advantage-and-Disadvantage-of-PHP.jpg",
+        "tutname": "Tricia Osborn",
+        "email": "triciaosborn@chillium.com",
+        "phone": "+1 (959) 600-3508",
+        "about": "PHP is an open-source, interpreted, and object-oriented scripting language that can be executed at the server-side. PHP is well suited for web development."
+    },
+    {
+        "_id": "615a95865188ed2a0921768c",
+        "isActive": false,
+        "title": "The Complete JavaScript Course for Beginner",
+        "price": "$100",
+        "picture": "https://i.ytimg.com/vi/jS4aFq5-91M/maxresdefault.jpg",
+        "tutname": "Ellison Barron",
+        "email": "ellisonbarron@chillium.com",
+        "phone": "+1 (890) 437-3961",
+        "about": "JavaScript is among the most powerful and flexible programming languages of the web. It powers the dynamic behavior on most websites, including this one."
+    },
+    {
+        "_id": "615a9586986201beb1c62e54",
+        "isActive": false,
+        "title": "Learning Python for Data Analysis and Visualization",
+        "price": "$94",
+        "picture": "https://365datascience.com/resources/blog/thumb@1024_2019-10-python-everything-you-should-know-1024x576.jpg",
+        "tutname": "Kitty Maddox",
+        "email": "kittymaddox@chillium.com",
+        "phone": "+1 (886) 495-3310",
+        "about": "Python is a general-purpose, versatile, and powerful programming language. It's a great first language because it's concise and easy to read."
+    },
+    {
+        "_id": "615a958654747087f36c7cb8",
+        "isActive": true,
+        "title": "Node with React: Fullstack Web Development",
+        "price": "$124",
+        "picture": "https://www.foxtekrs.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeFJuQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2404a60d3e6f86cd832e185bf35d5466c6da08b8/node_react.jpeg",
+        "tutname": "Francis Barr",
+        "email": "francisbarr@chillium.com",
+        "phone": "+1 (893) 530-2979",
+        "about": "React can also render on the server using Node and power mobile apps using React Native. A Simple Component. "
+    },
+    {
+        "_id": "615a958672cc99fb4c8ec003",
+        "isActive": false,
+        "title": "The Complete Web Developer Course",
+        "price": "$150",
+        "picture": "https://webapp99.com/wp-content/uploads/2020/04/web-development-guideline-for-2020-t0-2030.jpeg",
+        "tutname": "Regina Terry",
+        "email": "reginaterry@chillium.com",
+        "phone": "+1 (892) 562-3239",
+        "about": "Every Web Developer must have a basic understanding of HTML, CSS, and JavaScript. Responsive Web Design is used in all types of modern web development."
+    },
+    {
+        "_id": "615a9586fe1dbdcf41e6738a",
+        "isActive": true,
+        "title": "Master Microservices with Spring Boot and Cloud",
+        "price": "$105",
+        "picture": "https://www.pretius.com/wp-content/uploads/2018/12/monolithic-vs-microservices.png",
+        "tutname": "Lucas Tate",
+        "email": "lucastate@chillium.com",
+        "phone": "+1 (992) 548-2426",
+        "about": "With Spring Boot, your microservices can start small and iterate fast. That's why it has become the de facto standard for Java™ microservices."
+    },
+    {
+        "_id": "615a95866e7585cf482a684b",
+        "isActive": false,
+        "title": "Create a Spotify Clone from Scratch",
+        "price": "$196",
+        "picture": "https://colorlib.com/wp/wp-content/uploads/sites/2/free-shopify-themes.jpg",
+        "tutname": "Tameka Irwin",
+        "email": "tamekairwin@chillium.com",
+        "phone": "+1 (904) 580-2927",
+        "about": "With Spotify, you can listen to music and play millions of songs and podcasts for free. Stream music and podcasts you love and find music - or your next ..."
+    },
+    {
+        "_id": "615a95868336718099fabf3e",
+        "isActive": true,
+        "title": "Server Side Rendering with React and Redux",
+        "price": "$93",
+        "picture": "https://downloadfreecourse.com/uploads/images/2021/01/webp/image_750x_5ffc84e7ae8c2.webp",
+        "tutname": "Luella Richards",
+        "email": "luellarichards@chillium.com",
+        "phone": "+1 (989) 589-3178",
+        "about": "Server-side scripting is a technique used in web development which involves employing scripts on a web server which produces a response customized for each ..."
+    },
+    {
+        "_id": "615a9586ce248680a80ced11",
+        "isActive": true,
+        "title": "Kotlin Language for Java Developers",
+        "price": "$182",
+        "picture": "https://avatao.com/file/2020/08/1_fnbqF0xNVwINs_RkygkX1g.png",
+        "tutname": "Bernard Lee",
+        "email": "bernardlee@chillium.com",
+        "phone": "+1 (872) 421-3806",
+        "about": "Learn how Kotlin helped their teams become more productive and write higher quality apps. Write better Android apps."
+    },
+    {
+        "_id": "615a9586399ef0f0040d9571",
+        "isActive": true,
+        "title": "Learn the MERN Stack - Full course",
+        "price": "$75",
+        "picture": "https://www.rlogical.com/wp-content/uploads/2020/12/MERN-Stack-considered-the-Best-for-Developing-Web-Apps.png",
+        "tutname": "Shelley Mcguire",
+        "email": "shelleymcguire@chillium.com",
+        "phone": "+1 (927) 477-2473",
+        "about": "MERN stands for MongoDB, Express, React, Node, after the four key technologies that make up the stack. ... Express and Node make up the middle (application) tier."
+    }
+]
