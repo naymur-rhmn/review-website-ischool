@@ -8,3 +8,8 @@
 .course {
     min-height: 615px;
 }
+.course:hover .course-content h4 {
+    color: #FFC107;
+    transition: .3s;
+    cursor: pointer;
+}
