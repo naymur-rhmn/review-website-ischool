@@ -3,7 +3,6 @@ import './Course.css'
 
 const Course = (props) => {
     const { title, picture, price, tutname, about } = props?.course;
-    console.log(props.course);
     return (
         <div className="col-lg-6 py-3">
             <div className="course p-2 shadow">

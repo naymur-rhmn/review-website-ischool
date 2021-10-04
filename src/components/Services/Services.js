@@ -8,7 +8,6 @@ const Services = () => {
             .then(res => res.json())
             .then(data => setCourses(data))
     }, [])
-    console.log(courses);
     return (
         <div className="services">
             <div className="container">
