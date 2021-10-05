@@ -2,6 +2,7 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import './App.css';
 import About from './components/About/About';
 import Blog from './components/Blog/Blog';
+import Contact from './components/Contact/Contact';
 import Faq from './components/Faq/Faq';
 import Footer from './components/Footer/Footer';
 import Header from './components/Header/Header';
@@ -30,6 +31,9 @@ function App() {
           </Route>
           <Route path="/blog">
             <Blog></Blog>
+          </Route>
+          <Route path="/contact">
+            <Contact></Contact>
           </Route>
           <Route path="/faq">
             <Faq></Faq>

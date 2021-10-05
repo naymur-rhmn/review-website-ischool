@@ -32,6 +32,12 @@ const Header = () => {
                             fontWeight: "bold",
                             color: "#F1CA2E"
                         }} to="/blog">Blog</NavLink>
+                        {/* contact */}
+                        <NavLink className="nav-link" activeStyle={{
+                            fontWeight: "bold",
+                            color: "#F1CA2E"
+                        }} to="/contact">Contact</NavLink>
+
                         {/* faq */}
                         <NavLink className="nav-link" activeStyle={{
                             fontWeight: "bold",

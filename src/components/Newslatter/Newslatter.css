@@ -1,0 +1,31 @@
+.newslatter {
+    background-image: url('https://case.edu/studentsuccess/sites/case.edu.studentsuccess/files/styles/hero_one_column/public/2019-03/studygroupplus1hero.jpg?h=29c18064&itok=6IjXVn4P');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    color: rgb(240, 238, 235);
+    z-index: 1;
+}
+.newslatter::after {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    content: "";
+    background: rgb(27, 26, 26);
+    opacity: .7;
+    z-index: -1;
+}
+.nw-content {
+    z-index: 1;
+}
+.newslatter p {
+    color: rgb(240, 238, 235);
+
+}
+.subscribe-box input {
+    width: 300px;
+    color: gray;
+}
